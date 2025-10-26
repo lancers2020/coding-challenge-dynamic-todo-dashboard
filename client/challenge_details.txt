@@ -1,0 +1,21 @@
+Create a simple Todo Dashboard component in React that allows users to:
+    1. Add a new todo item (with title and optional description).
+    2. Mark a todo as complete/incomplete.
+    3. Filter todos by “All”, “Active”, or “Completed”.
+
+Requirements:
+    1. Use functional components and hooks (useState, useEffect).
+    2. Use CSS-in-JS or inline styles (no CSS files).
+    3. All todos should have:
+        i. { id, title, description, isDone }
+    4. Clean UI layout, nothing fancy.
+
+Tools to learn:
+    1. learn "localStorage" so that todos persist even if the page gets refreshed.
+    2. learn widely used and famous tools or libraries so that the todos (items) can be dragged
+
+Bonus (+5 pts):
+    1. Add a search bar that filters todos in real time.
+
+Tools/Libraries used: (to be filled in later when this challenge is finished)
+    1. 
